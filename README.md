@@ -3,7 +3,7 @@
 ### title 3
 this is a **bold** *Itern* test
 
-this is a [hypelink](http://www.baidu.com)
+this is a [hypelink](More.md)
 
 >This is some quation  
 aghia
