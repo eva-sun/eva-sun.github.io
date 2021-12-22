@@ -28,4 +28,4 @@ print('Hello world!')
 ```powershell
 $em:Path
 ```
-!
+![Code](assets/code.jpg)
